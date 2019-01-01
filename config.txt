@@ -1,0 +1,6 @@
+token=NTI5MzM4NDQxOTAxODAxNDcz.DwvYkw.rYq-RwtIfnHRv0SNsd_Azh5fYY4
+owner=408418331025080320 
+prefix=onc
+game=Listening To ONC
+stayinchannel=true
+songinstatus=true
